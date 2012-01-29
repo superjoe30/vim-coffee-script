@@ -2,6 +2,7 @@
 abc instanceof def
 typeof abc
 delete abc
+await abc def, defer ghi
 abc::def
 
 abc + def
